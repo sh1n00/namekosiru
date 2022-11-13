@@ -5,7 +5,8 @@
 
 
 <!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=namekosiru&hide=contribs&count_private=true&show_icons=true&theme=tokyonight&line_height=24)](https://github.com/namekosiru/)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namekosiru&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=sh1n00&hide=contribs&count_private=true&show_icons=true&theme=tokyonight&line_height=24)](https://github.com/sh1n00/)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh1n00&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div align="left">
 <img align="center" src="https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=plastic">
